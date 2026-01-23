@@ -136,7 +136,6 @@ function getAronixNavbar() {
             <a href="index.html" class="navbar-logo navbar-aronix-logo">
                 <img src="images/aronix/Aronix.svg" alt="ARONIX" class="navbar-subbrand-logo-img navbar-aronix-logo-img">
             </a>
-            <a href="ventures.html" class="navbar-subbrand-back navbar-aronix-back">← Back</a>
         </nav>
     </header>
     `;
